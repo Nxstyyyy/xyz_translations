@@ -1,17 +1,17 @@
 {
     "homescreen": {
-        "new_game": "New Game",
-        "continue": "Continue",
-        "settings": "Settings",
-        "credits": "Credits",
-        "quit": "Quit"
+        "new_game": "Nowa gra",
+        "continue": "Kontynuuj",
+        "settings": "Opcje",
+        "credits": "Napisy",
+        "quit": "Wyjdź"
     },
 
     "loader": {
-        "downloading_assets": "Downloading Resources...",
-        "loading_data": "Initializing...",
-        "saving": "Saving Progress...",
-        "saved": "Progress Saved."
+        "downloading_assets": "Pobieranie zasobów...",
+        "loading_data": "Inicjalizowanie...",
+        "saving": "Zapisywanie...",
+        "saved": "Gra zapisana."
     },
 
     "actors_name": {
