@@ -3,29 +3,29 @@
         "new_game": "Νέο παιχνίδι",
         "continue": "Συνέχεια παιχνιδιού",
         "settings": "Ρυθμίσεις",
-        "credits": "Credits",
+        "credits": "Συντελεστές",
         "quit": "Έξοδος"
     },
 
     "loader.loading_data": {
-        "downloading_assets": "Waiting for server...",
-        "loading_data": "Just a moment...",
-        "saving": "Saving Progress...",
-        "saved": "Progress Saved!"
+        "downloading_assets": "Αναμονή του διακομιστή...",
+        "loading_data": "Παρακαλώ περιμένετε...",
+        "saving": "Αποθήκευση προόδου...",
+        "saved": "Η πρόοδος αποθηκεύτηκε!"
     },
 
     "actors_name": {
         "jenna": "Τζένα",
         "derek": "Ντέρεκ",
-        "ryan_cooper": "Ryan Cooper"
+        "ryan_cooper": "Ράιαν Κούπερ"
     },
 
     
     "act_a_phone_call_voice": {
-        "ryan_1": "Jenna… great timing to pick up, because I’m currently knee-deep in a sticky situation and could really use you right now.",
-        "jenna_1": "You’re kidding me. I’m in the middle of a recon.",
-        "ryan_2": "I know, I know—I'm sorry! Just—this vehicle I've been tracking for a while… and it's right in front of me!",
-        "jenna_2": "Yeah, yeah—send the ping. Just don’t get yourself killed before I get there."
+        "ryan_1": "Τζένα... η κατάλληλη στιγμή για να το σηκώσεις, Αυτή την στιγμή βρίσκομαι σε μια δύσκολη κατάσταση και θα ήθελα πολύ να ήσουν εδώ μαζί μου.",
+        "jenna_1": "Αστειεύεσαι. Είμαι στη μέση μιας αναγνώρισης.",
+        "ryan_2": "Το ξέρω, το ξέρω συγγνώμη! Απλώς αυτό το όχημα που παρακολουθώ εδώ και καιρό... είναι ακριβώς μπροστά μου!",
+        "jenna_2": "Ναι, ναι στείλε το σήμα GPS. Απλώς να προσέχεις μέχρι να φτάσω εκεί."
     },
 
     "act_one_a": {
